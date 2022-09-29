@@ -1,2 +1,1 @@
-# SheCodes
-shecodes-demo
+# SheCodes-demo
